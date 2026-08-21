@@ -8,7 +8,7 @@
 - 🧩 Shipped **180+ REST endpoints** across 17 backend domains with FastAPI and PostgreSQL
 - ☁️ Deployed Dockerized services on a **HIPAA-aligned GCP** stack (Cloud Run, Cloud SQL, Secret Manager)
 - 📋 **Project Manager** at Google Developer Student Club, running sprints for a student dev team
-- 💜 Passionate about backend engineering and clean API design
+- 💜 Passionate about Backend Engineering
 
 **Frameworks/Tools**
 
