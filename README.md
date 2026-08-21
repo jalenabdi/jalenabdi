@@ -1,85 +1,54 @@
-<div align="center">
+👋 Jalen Abdi
+CS @ UT Dallas · Software Engineer Intern @ iGetHappy
+ I build backend systems that actually ship — APIs, databases, and cloud infrastructure in production.
+  
 
-Hi, I'm Jalen Abdi
+🧭 The Short Version
+🎓 B.S. Computer Science at The University of Texas at Dallas — GPA 3.82, Class of 2029
+💼 Software Engineer Intern at iGetHappy — production web + mobile platform, FastAPI & PostgreSQL
+📋 Project Manager at Google Developer Student Club — running sprints for a student dev team
+☁️ Comfortable in HIPAA-aligned GCP: Cloud Run, Cloud SQL, Secret Manager, private VPC
+🧪 Opinionated about tested, migration-safe backends and clean API design
+📬 Open to Summer 2027 Software Engineering internships
 
-Backend-focused software engineer building reliable APIs, cloud systems, and AI-enabled products.
+
+💼 Where I've Worked
+Software Engineer Intern · iGetHappy · May 2026 – Present
+
+Shipped 2 production products (web + mobile) for a mental health platform
+Engineered 180+ REST endpoints across 17 backend domains with FastAPI + PostgreSQL — scheduling, onboarding, secure messaging, documentation, billing
+Built 40+ mobile screens and 15+ React portal workflows, integrated 7 third-party services
+Hardened reliability with 75+ automated tests and 27 database migrations
+Contributed to a HIPAA-aligned GCP migration of Dockerized FastAPI workloads to Cloud Run (Cloud SQL, Cloud Storage, Secret Manager, Cloud Armor)
+Designed a Vertex AI serving path with server-side de-identification, safety checks, token quotas, and audit logging
+
+Project Manager · Google Developer Student Club (UTD) · Aug 2026 – Present
+
+Lead a student development team through GDSC Sprints — scope, priorities, timelines, milestones
+Translate product requirements into owned, tracked tasks to keep delivery velocity high
+Surface blockers early through structured task breakdown and progress tracking
 
 
-
-
-
-</div>
-
-Engineering Profile
-
-Computer Science student at The University of Texas at Dallas, graduating in May 2029.
-
-Software Engineer Intern at iGetHappy, contributing to production web and mobile experiences for a mental health platform.
-
-Backend-focused developer with hands-on experience building APIs using Python, FastAPI, and PostgreSQL.
-
-Contributed to cloud infrastructure on Google Cloud Platform, including Cloud Run, Cloud SQL, Cloud Storage, Secret Manager, private networking, and Cloud Armor.
-
-Designed a secure Vertex AI serving path with de-identification, safety checks, token quotas, and audit logging.
-
-Project Manager at Google Developer Student Club, leading a student development team across scope, priorities, timelines, ownership, and delivery milestones.
-
-Impact at a Glance
-
-Production products shipped
-
-REST API endpoints
-
-Backend domains
-
-Automated tests
-
-Database migrations
-
-Integrations
-
-2
-
-180+
-
-17
-
-75+
-
-27
-
-7
-
-What I'm Focused On
-
-I enjoy turning complex requirements into dependable backend systems. Right now, I am deepening my skills in API design, relational databases, cloud deployment, secure AI integration, and engineering leadership.
-
-Technical Toolkit
+🛠️ What I Build With
 
 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,dart,html,css&theme=dark" alt="Python, Java, C++, JavaScript, TypeScript, Dart, HTML, and CSS" />
-</p>
+Backend
 
-Frameworks & Databases
+Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,nodejs,postgres,mongodb&theme=dark" alt="FastAPI, Flask, React, Next.js, Node.js, PostgreSQL, and MongoDB" />
-</p>
+Data
 
-Cloud & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,linux,firebase,postman&theme=dark" alt="Docker, Google Cloud Platform, Git, GitHub, Linux, Firebase, and Postman" />
-</p>
-
-<div align="center">
-
-Let's build something useful.
-
-I'm always interested in connecting with engineers, recruiters, and teams working on meaningful software.
+Cloud & Tools
 
 
 
-</div>
+
+📊 A Look at the Repos
+ 
+
+📫 Reach Me
+Email: jalenajj19@gmail.com · LinkedIn: jalen-abdi
+
+
+
